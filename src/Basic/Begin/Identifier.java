@@ -1,4 +1,4 @@
-package Basic;
+package Basic.Begin;
 
 public class Identifier {
     public static void main(String[] args) {

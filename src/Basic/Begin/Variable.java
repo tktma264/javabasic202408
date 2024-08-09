@@ -1,4 +1,4 @@
-package Basic;
+package Basic.Begin;
 
 public class Variable {
     public static void main(String[] args) {
