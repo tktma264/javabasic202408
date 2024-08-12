@@ -14,7 +14,10 @@ public class datatype {
         
         String ba = "aaa";
         System.out.println("a = " + ba);
-        
+        //덧셈으로 문자열을 단순히 연결해서 결합할 수 있음
+        //문자열과 다른 데이터 타입간의 덧셈 연산->결과값이 무조건 문자열 덧셈 연산과 같음
+
+
     }
 
 
